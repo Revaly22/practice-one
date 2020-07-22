@@ -1,0 +1,12 @@
+body{
+    background-color: #ff0022;
+    /* this is how to insert background image */
+    background-image: url(images/WIN_20200722_03_45_35_Pro.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    background-origin: content-box;
+    background-clip: border-box;
+    background-attachment: scroll;
+    background-position-x: left;
+}
